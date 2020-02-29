@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ad0d6ebef3be305a1cbcaceccc1be5c",
+    "revision": "49661eeb0c1f1d02e685f039c5fc6671",
     "url": "/SuperMarket/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SuperMarket/static/css/2.a005c24e.chunk.css"
   },
   {
-    "revision": "440603d86b8fbbdb3f05",
+    "revision": "d5560a24178c7c20df14",
     "url": "/SuperMarket/static/css/main.c74de508.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SuperMarket/static/js/2.ff282689.chunk.js.LICENSE"
   },
   {
-    "revision": "440603d86b8fbbdb3f05",
-    "url": "/SuperMarket/static/js/main.58d14656.chunk.js"
+    "revision": "d5560a24178c7c20df14",
+    "url": "/SuperMarket/static/js/main.4f5295a3.chunk.js"
   },
   {
     "revision": "a695e5b1f8006f938366",
