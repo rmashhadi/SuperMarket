@@ -67,8 +67,8 @@ export default function OrangeFooter(props) {
         </div>
       </div>
       <div className="fixed-footer">
-        <span>کلیه حقوق این وبسایت متعلق به شرکت ؟؟؟ است.</span>
-        <span className="rights">Designed and Developed by ???.com</span>
+        <span>کلیه حقوق این وبسایت متعلق به شرکت شمیران است.</span>
+        <span className="rights">Designed and Developed by shemiran.com</span>
         <span className="media-title">شبکه های اجتماعی</span>
         <div className="icons">
           <img className="image" src={Telegram} />
